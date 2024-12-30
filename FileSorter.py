@@ -2,7 +2,8 @@ import os, shutil
 from pathlib import Path
 
 def Sort():
-    downloads_path = r"C:\Users\tytyd\Downloads"
+    #replace "USERNAME" with your username. Alternatively, you can replace the file location with the path to your download folder.
+    downloads_path = r"C:\Users\USERNAME\Downloads"
 
     extensions = {
         'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg', '.webp'],
