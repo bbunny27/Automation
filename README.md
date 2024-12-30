@@ -1,10 +1,20 @@
 # Automation
-For automating mundane tasks
+For automating mundane tasks. This repo will have important scripts and dumb scripts.
 
+### Scripts working on startup
+Any script in here can be added to the startup folder on Win11. <br>
+Press Windows+R and type in shell:startup <br>
+This should open a folder, put the script into that folder.
 
-### What is this Repo
-This repository will be a collection of scripts I am creating in order to automate mundane tasks. Whether this be for school or personal projects, the idea is for me to make my life better using various scripting languages. 
+## File Sorting Script Instructions
+You must create the following folders in your downloads folder: <br>
+"Archives"
+"Audio"
+"Code"
+"Documents"
+"Images"
+"Installers"
+"Video"
 
-### Will all of these scripts be good? 
-No, this is a learning process of me as well.
-I will also be writing some silly automation, like a twitter bot. 
+In order to auto-run on startup. Consult "Scripts working on startup" portion of this document.
+
